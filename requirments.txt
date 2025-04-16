@@ -1,0 +1,28 @@
+# Core Flask Dependencies
+Flask==3.0.3
+Flask-Login==0.6.3
+Werkzeug==3.0.4
+Jinja2==3.1.4
+itsdangerous==2.2.0
+blinker==1.8.2
+
+# Google Cloud & AI Dependencies
+google-cloud-firestore==2.13.1
+firebase-admin==6.2.0
+google-generativeai==0.8.3
+google-api-core==2.24.0
+google-api-python-client==2.158.0
+google-auth==2.37.0
+protobuf==5.29.3
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.32.3
+urllib3==2.2.3
+certifi==2024.8.30
+six==1.16.0
+pytz==2024.2
+
+# Security
+cryptography==43.0.3
+bcrypt==4.2.0
